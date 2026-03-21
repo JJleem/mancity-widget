@@ -10,6 +10,12 @@
 
 ---
 
+<p align="center">
+  <img src="./thumb.jpeg" alt="Manchester City Widget Preview" width="360" />
+</p>
+
+---
+
 ## ✨ Features / 기능
 
 ### 🏆 Recent Form / 최근 폼 — Last 5 Matches / 최근 5경기
